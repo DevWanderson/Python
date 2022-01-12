@@ -1,4 +1,4 @@
-#Cálculo IMC
+#Cálculo IMC LOKÃO
 print("----------Cálculo IMC----------")
 print("------------ALTURA-------------")
 
